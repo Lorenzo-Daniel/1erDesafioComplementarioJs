@@ -14,7 +14,7 @@
         Deploy
     </h2>
     <p>
-        visualizá el proyecto <a href="">aquí</a>
+        visualizá el proyecto <a href="https://lorenzo-daniel.github.io/1erDesafioComplementarioJs/">aquí</a>
     </p>
     <p>
         Desarollado por Daniel Lorenzo
